@@ -1,0 +1,8 @@
+[2025-07-05 18:12:09] Received 'secret.txt' from 127.0.0.1
+[2025-07-05 18:18:30] Received 'client.py' from 127.0.0.1
+[2025-07-05 18:36:15] Received 'secret.txt' from 127.0.0.1
+[2025-07-05 22:32:27] Sent: secret.txt to 127.0.0.1:5001
+[2025-07-05 22:32:27] Received 'secret.txt' from 127.0.0.1
+[2025-07-06 00:06:29] Received 'secret.txt' from 127.0.0.1
+[2025-07-06 00:07:36] Sent: client.py to 127.0.0.1:5001
+[2025-07-06 00:07:36] Received 'client.py' from 127.0.0.1
